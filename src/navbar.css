@@ -1,0 +1,11 @@
+.icons{
+    object-fit: contain;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    z-index: 100;
+    padding: 20px;
+}
+.tinder_logo{
+    width: 100px;
+}
